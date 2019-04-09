@@ -80,7 +80,7 @@ function run()
 var directionalLight = null;
 var spotLight = null;
 var ambientLight = null;
-var mapUrl = "../images/grass.jpg";
+var mapUrl = "images/grass.jpg";
 
 var SHADOW_MAP_WIDTH = 2048, SHADOW_MAP_HEIGHT = 2048;
 
